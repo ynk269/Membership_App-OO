@@ -1,0 +1,9 @@
+Membership App
+
+1. open image given in that class diagram will be given.
+2. Understand the flow of class diagram about classes and relationship between them.
+3. Create a Java Project 
+4. Create all Entities(Classes) and map relationship between them 
+5. Create TestMain - in this create objects for all classes and create necessary list objects
+and map relationships by adding one object to another as per the class diagram and its relationship
+6. Display Membership details of a Company
